@@ -1,0 +1,95 @@
+/* footer_intenshala.html */
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+#footer{
+  background-color:  #2d2d2d;
+}
+
+
+.places{
+  list-style-type: none;
+}
+
+h4{
+  color: white;
+  margin-top: 20px;
+}
+
+.places li a{
+  color: white;
+}
+
+#last-column
+{
+  margin-bottom: 2px;
+}
+
+
+#logo-image
+{
+  margin-bottom: 0px;
+  width: 108px;
+  box-shadow: 0 0 2px #fff;;
+}
+
+hr{
+  /* width: 91%; */
+  color: red;
+  margin-bottom: 2px;
+}
+
+
+.copyright{
+  color: white;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* comment */
